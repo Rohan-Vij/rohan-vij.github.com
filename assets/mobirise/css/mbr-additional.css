@@ -3178,6 +3178,11 @@ a {
 .cid-tq44uOGqm2 {
   background-image: url("../../../assets/images/mbr-1920x1282.jpg");
 }
+
+.debg {
+  background-image: url("../../../assets/images/debg.png");
+}
+
 .cid-tq44uOGqm2 .mbr-fallback-image.disabled {
   display: none;
 }
